@@ -1,0 +1,72 @@
+окт. 17, 2022 11:26:10 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:26:15 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:26:15 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:26:19 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<привет>>: 42d0be
+окт. 17, 2022 11:26:19 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:26:19 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 46bbe337
+окт. 17, 2022 11:26:21 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<как дела?>>: 671ea177
+окт. 17, 2022 11:26:21 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:26:21 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 46d38de3
+окт. 17, 2022 11:26:25 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<что нового на работе?>>: 5447335f
+окт. 17, 2022 11:26:25 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:26:25 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 5f5ede56
+окт. 17, 2022 11:35:05 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:35:09 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:35:09 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:36:16 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:36:20 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:36:20 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:42:08 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:42:13 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:42:13 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:49:46 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:49:50 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:49:50 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:54:09 AM org.example.SubmitDeliverTransceiver main
+INFO: Слушаем...
+окт. 17, 2022 11:54:14 AM org.example.SubmitDeliverTransceiver main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:54:14 AM org.example.SubmitDeliverTransceiver main
+INFO: Разрешить подключение
+окт. 17, 2022 11:54:17 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<Привет>>: 7bf01efd
+окт. 17, 2022 11:54:17 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:54:18 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 4a5485af
+окт. 17, 2022 11:54:25 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<меня зовут Дмитрий>>: 3385c10b
+окт. 17, 2022 11:54:25 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:54:25 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 7c53f8ce
+окт. 17, 2022 11:54:32 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, отправляемое на клиент: <<я работаю в компании Unifun>>: 3ecb1659
+окт. 17, 2022 11:54:32 AM org.example.MessageTransceiverListener onAcceptDeliverSm
+INFO: Пересылаем отчет о доставке: DELIVERED
+окт. 17, 2022 11:54:32 AM org.example.ServerMessageTransceiverListener onAcceptSubmitSm
+INFO: ID сообщения, полученного с сервера: 19f4320e

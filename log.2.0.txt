@@ -1,0 +1,56 @@
+окт. 17, 2022 11:26:19 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<привет>> отправлено!
+окт. 17, 2022 11:26:19 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:26:19 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<привет>>: 42d0be
+окт. 17, 2022 11:26:21 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<как дела?>> отправлено!
+окт. 17, 2022 11:26:21 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:26:21 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<как дела?>>: 671ea177
+окт. 17, 2022 11:26:25 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<что нового на работе?>> отправлено!
+окт. 17, 2022 11:26:25 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:26:25 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<что нового на работе?>>: 5447335f
+окт. 17, 2022 11:35:12 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<привет>> отправлено!
+окт. 17, 2022 11:36:23 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<привет>> отправлено!
+окт. 17, 2022 11:36:27 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<как дела?>> отправлено!
+окт. 17, 2022 11:36:30 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<что нового?>> отправлено!
+окт. 17, 2022 11:42:19 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Добрый день!>> отправлено!
+окт. 17, 2022 11:42:28 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Меня зовут каража Дмитрий>> отправлено!
+окт. 17, 2022 11:42:45 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Я работаю в компаниии Unifun!>> отправлено!
+окт. 17, 2022 11:49:53 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<привет>> отправлено!
+окт. 17, 2022 11:49:58 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Меня зовут Дима>> отправлено!
+окт. 17, 2022 11:50:07 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Я работаю в компании Unifun>> отправлено!
+окт. 17, 2022 11:54:17 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<Привет>> отправлено!
+окт. 17, 2022 11:54:17 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:54:18 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<Привет>>: 7bf01efd
+окт. 17, 2022 11:54:25 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<меня зовут Дмитрий>> отправлено!
+окт. 17, 2022 11:54:25 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:54:25 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<меня зовут Дмитрий>>: 3385c10b
+окт. 17, 2022 11:54:32 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<я работаю в компании Unifun>> отправлено!
+окт. 17, 2022 11:54:32 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:54:32 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<я работаю в компании Unifun>>: 3ecb1659

@@ -1,0 +1,120 @@
+окт. 17, 2022 10:53:23 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 10:53:23 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 56cfd948
+окт. 17, 2022 10:53:23 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение привет отправлено!
+окт. 17, 2022 10:53:26 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 10:53:26 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 49e77b3c
+окт. 17, 2022 10:53:26 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение как дела? отправлено!
+окт. 17, 2022 10:53:30 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 10:53:30 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 6b2fd7e6
+окт. 17, 2022 10:53:30 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение что нового? отправлено!
+окт. 17, 2022 11:19:11 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:19:12 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 73c11b08
+окт. 17, 2022 11:19:12 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение привет отправлено!
+окт. 17, 2022 11:19:17 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:19:17 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 892a121
+окт. 17, 2022 11:19:17 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение как дела? отправлено!
+окт. 17, 2022 11:19:22 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:19:22 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: 7d86b839
+окт. 17, 2022 11:19:22 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение меня зовут Дима отправлено!
+окт. 17, 2022 11:22:41 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<привет>> отправлено!
+окт. 17, 2022 11:22:41 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:22:41 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<привет>>: 73416f3c
+окт. 17, 2022 11:22:43 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<как дела?>> отправлено!
+окт. 17, 2022 11:22:43 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:22:43 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<как дела?>>: 4fb48e3b
+окт. 17, 2022 11:22:49 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<мне так скучно>> отправлено!
+окт. 17, 2022 11:22:49 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:22:49 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<мне так скучно>>: 296c2411
+окт. 17, 2022 11:22:52 AM org.example.SubmitTransmitterDeliverReceiver main
+INFO: Сообщение <<просто капец>> отправлено!
+окт. 17, 2022 11:22:52 AM org.example.MessageReceiverListener onAcceptDeliverSm
+INFO: Получено подтверждение о доставке: DELIVERED
+окт. 17, 2022 11:22:52 AM org.example.SubmitTransmitterDeliverReceiver sendSingleSMS
+INFO: ID сообщения: <<просто капец>>: 210a185b
+окт. 17, 2022 11:25:59 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:26:15 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:26:15 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:26:15 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:26:19 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<привет>>: 46bbe337
+окт. 17, 2022 11:26:21 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<как дела?>>: 46d38de3
+окт. 17, 2022 11:26:25 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<что нового на работе?>>: 5f5ede56
+окт. 17, 2022 11:34:59 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:35:09 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:35:10 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:35:10 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:36:11 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:36:20 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:36:20 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:36:20 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:42:02 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:42:13 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:42:13 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:42:13 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:49:42 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:49:50 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:49:50 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:49:50 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:54:04 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Слушаем...
+окт. 17, 2022 11:54:14 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Подключился клиент
+окт. 17, 2022 11:54:14 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Получен бинд на подключение от клиента smpp_user, его пароль d1234
+окт. 17, 2022 11:54:14 AM org.example.SubmitReceiverDeliverTransmitter main
+INFO: Разрешить подключение
+окт. 17, 2022 11:54:18 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<Привет>>: 4a5485af
+окт. 17, 2022 11:54:25 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<меня зовут Дмитрий>>: 7c53f8ce
+окт. 17, 2022 11:54:32 AM org.example.ServerMessageReceiverListener onAcceptSubmitSm
+INFO: ID сообщения <<я работаю в компании Unifun>>: 19f4320e
